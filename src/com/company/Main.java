@@ -22,9 +22,30 @@ public class Main {
         //ArrayService.dlinnoeOrKorotkoe(number,lenght);   // Передаём весь массив на поиск мин и макс числа
 
         ArrayService arrayService=new ArrayService();
+        ArrayService1 arrayService1=new ArrayService1();
+        String1 string1=new String1();
+       // string1.one();
+        //string1.two();
+       // string1.tre();
+        //string1.forr();
+        //string1.feif();
+
+       // arrayService1.pri();
+    //    arrayService1.matrixStar();
+      //  arrayService1.sredArDwumArray();
+      //  arrayService1.summEl();
+     //   arrayService1.isklDublikatow();
+    //    arrayService1.numberFaif();
+       // arrayService1.iskljuchenieDublikatow();
+ //       arrayService1.sredneeArefm();
+   //     arrayService1.pologChislo();
+//        arrayService1.maxChisloMassiwa();
+ //       arrayService1.forEach();
+  //      arrayService1.binarry();
 //        arrayService.summaMassiwow();
 //        arrayService.sortirowkaPuzirkom();
-          arrayService.chisloVMassiw();
+ //         arrayService.chisloVMassiw();
+
 
 
 
